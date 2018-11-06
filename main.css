@@ -1,0 +1,33 @@
+#top-tittle a {
+    text-align: right;
+    text-decoration: none;
+    color: white;
+    padding-top: 8%;
+    padding-right: 5%;
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#top-tittle a:hover{
+    color: rgb(243, 213, 178);
+}
+
+.big-tittle {
+    font-size: 100px;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    padding-top: 8%;
+    color: white;
+}
+
+.sec-tittle {
+    font-size: 25px;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+
+.home-background {
+    background-color: rgba(94, 168, 228, 0.733);
+}
